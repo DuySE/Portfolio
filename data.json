@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Battleship",
+            "description": "Battleship Game",
+            "technologies": ["NodeJS", "ExpressJS", "JavaScript"],
+            "image_urls": [
+                "../images/battleship_1200x550.jpg",
+                "../images/battleship_550x550.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "BMI",
+            "description": "Calculate human body measure",
+            "technologies": ["Java", "Spring", "Hibernate"],
+            "image_urls": [
+                "../images/bmi_1200x550.jpg",
+                "../images/bmi_550x550.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Random Quote",
+            "description": "Random Quote",
+            "technologies": ["C++", ".NET", "Python"],
+            "image_urls": [
+                "../images/randomQuote_1200x550.jpg",
+                "../images/randomQuote_550x550.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Rate Student",
+            "description": "Rate Student",
+            "technologies": ["PHP", "Haskel", "Django"],
+            "image_urls": [
+                "../images/rateStudent_1200x550.jpg",
+                "../images/rateStudent_550x550.jpg"
+            ]
+        }
+    ]
+}
